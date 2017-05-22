@@ -1,0 +1,1 @@
+Mastering Chef Provisioning by Packt Publishing

@@ -1,0 +1,6 @@
+DEPENDENCIES
+  my_cookbook
+    path: cookbooks/my_cookbook
+
+GRAPH
+  my_cookbook (0.1.0)
